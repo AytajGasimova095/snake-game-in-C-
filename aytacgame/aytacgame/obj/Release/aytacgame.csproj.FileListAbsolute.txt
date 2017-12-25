@@ -1,0 +1,5 @@
+C:\Users\Администратор\AppData\Local\Temporary Projects\aytacgame\obj\Release\ResolveAssemblyReference.cache
+C:\Users\Администратор\AppData\Local\Temporary Projects\aytacgame\bin\Release\aytacgame.exe
+C:\Users\Администратор\AppData\Local\Temporary Projects\aytacgame\bin\Release\aytacgame.pdb
+C:\Users\Администратор\AppData\Local\Temporary Projects\aytacgame\obj\Release\aytacgame.exe
+C:\Users\Администратор\AppData\Local\Temporary Projects\aytacgame\obj\Release\aytacgame.pdb
